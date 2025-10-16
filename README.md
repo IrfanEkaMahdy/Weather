@@ -17,4 +17,4 @@ HTML, CSS, dan JavaScript
 
 OpenWeatherMap API
 
-Ketik “Jakarta” → muncul suhu (°C), kondisi (“Cloudy”), kecepatan angin, kuantitas awan, dan koordinat geografis.
+Ketik “Jambi” → muncul suhu (°C), kondisi (“Cloudy”), kecepatan angin, kuantitas awan, dan koordinat geografis.
